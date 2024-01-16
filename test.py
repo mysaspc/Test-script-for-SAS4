@@ -13,3 +13,6 @@ def opentrace(trace_file):
 	
 print(opentrace("C:\\Users\\Public\\Documents\\LeCroy\\SAS4 Protocol Suite\\Examples\\Traces\\AfterJammer Modified SCSICommand.sxt"))
 # last updated by OS machine at 3:44pm
+
+# received the update by workstation at 5:21pm
+
