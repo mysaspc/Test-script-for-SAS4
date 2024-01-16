@@ -16,3 +16,5 @@ print(opentrace("C:\\Users\\Public\\Documents\\LeCroy\\SAS4 Protocol Suite\\Exam
 
 # received the update by workstation at 5:21pm
 
+# new change by mysaspc at 5:36pm
+
