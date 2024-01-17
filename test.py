@@ -18,5 +18,5 @@ print(opentrace("C:\\Users\\Public\\Documents\\LeCroy\\SAS4 Protocol Suite\\Exam
 
 # new change by mysaspc at 5:36pm
 
-print("From OS machine user - please make sure this is seen and executed by Jenkins: 17-Jan 10:12am")
+print("From OS machine user - please make sure this is seen and executed by Jenkins: 17-Jan 10:34am")
 
