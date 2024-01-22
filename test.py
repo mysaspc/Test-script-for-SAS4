@@ -30,3 +30,5 @@ print("Hi Jenkins - is webhook triggered the build?")
 
 print("Hi Jenkins - is webhook triggered the build (with token credential selected)?")
 
+print("Hi Jenkins - is it running every minutes with polling SCM setting?")
+
