@@ -27,3 +27,6 @@ print("Also execute this which is added on by workstation user: 17-Jan 10:40am")
 print("Hi Jenkins - this is the last added code and please sync up and execute this line: 17-Jan LAST FROM OS MACHINE")
 
 print("Hi Jenkins - is webhook triggered the build?")
+
+print("Hi Jenkins - is webhook triggered the build (with token credential selected)?")
+
