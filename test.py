@@ -32,3 +32,5 @@ print("Hi Jenkins - is webhook triggered the build (with token credential select
 
 print("Hi Jenkins - is it running every minutes with polling SCM setting?")
 
+print("Hi Jenkins - did you run automatically via webhook trigger?")
+
